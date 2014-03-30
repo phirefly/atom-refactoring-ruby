@@ -1,0 +1,14 @@
+{
+  "name": "refactoring-ruby",
+  "main": "./lib/refactoring-ruby",
+  "version": "0.0.1",
+  "description": "Shortcuts for refactoring in Ruby",
+  "activationEvents": ["refactoring-ruby:extract-method"],
+  "repository": "https://github.com/phirefly/atom-refactoring-ruby",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "dependencies": {
+  }
+}
